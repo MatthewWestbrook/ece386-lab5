@@ -6,7 +6,7 @@
 Really well, honestly. It had some issues with spacing before some entries, but it got the gist of all the reponses and stored them correctly. 
 ## Paste a few input/output combos
 "Hi my name is Matthew and I am 22 years old. I love the color carolina blue and I love that color because I see it often when I cheer on the Carolina TarHeels in my favorite sport, Soccer"
-```json
+```
 users=[User(name='Matthew', age=22, favorite_color=' carolina blue', favorite_sport='Soccer')]
 ```
 
